@@ -15,3 +15,9 @@ Types of changes are:
 * **Security** in case of vulnerabilities.
 
 ## Unreleased
+
+## 1.0.0 - 2019-04-14
+
+### Added
+* [Ticket #1](https://github.com/robcharlwood/terraform-aws-playground/issues/1) Create code to setup terraform and provision an AWS key pair for SSH use
+* [Ticket #3](https://github.com/robcharlwood/terraform-aws-playground/issues/3) Add terraform code for VPC, subnet, security groups and EC2 instance
