@@ -1,5 +1,7 @@
 # Terraform AWS playground
 
+[![Build Status](https://travis-ci.org/robcharlwood/terraform-aws-playground.svg?branch=master)](https://travis-ci.org/robcharlwood/terraform-aws-playground/)
+
 A simple codebase for experimentation and playing around with Terraform and AWS. This code is provided for educational uses only and is not recommended for production setups.
 
 ## Initial checkout and setup of codebase
